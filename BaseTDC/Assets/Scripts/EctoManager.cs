@@ -1,15 +1,4 @@
-/*
-    "Ectos: Ectoplasma, Năng lượng cho các kĩ năng" (toDo2.txt)
 
-    Second resource type. Wood pays for towers; Ectos pay for Boons. Mirrors
-    WoodManager exactly - same singleton pattern, same Text display, same Start/
-    AddEctos/RemoveEctos/GetCurrEctos interface.
-
-    Setup in the scene: add this component to the same manager GameObject as
-    WoodManager, then wire playerEctoTxt to a UI Text showing the Ecto count,
-    and set startEctos in the Inspector. Also wire ShopManager.ectoManager to this
-    component after setting ShopManager.woodManager to WoodManager.
-*/
 using UnityEngine;
 using UnityEngine.UI;
 
