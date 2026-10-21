@@ -1,8 +1,4 @@
-/*
-    Developing the camera boundary limits, scroll wheel and middle mouse
-    is based on this tutorial: https://www.youtube.com/watch?v=IfbMKe6p9nM
-    More work needs to be done with this.
-*/
+
 
 using System.Collections;
 using System.Collections.Generic;
