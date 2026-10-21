@@ -1,16 +1,4 @@
-/*
-    Most code in this file was written out by Nathan Granger based on the free tutorial 
-    videos posted by youtube user ZeveonHD, found at 
-    https://www.youtube.com/playlist?list=PL5AKnriDHZs5a8De2wK_qqrwBUqjZo0hN. Many
-    function and variable names may have been changed and some parts of the code may
-    have been modified to fit our game scheme, these sections will be marked with 
-    comments.
 
-    Renamed from MoneyManager -> WoodManager to match toDo2.txt's resource name ("Wood").
-    Fields keep [FormerlySerializedAs] pointing at their old names so existing prefab
-    Inspector values (startMoney: 1000, the wired-up Text references, etc.) carry over
-    instead of resetting to default the next time the prefab is opened/saved in Unity.
-*/
 
 using System.Collections;
 using System.Collections.Generic;
